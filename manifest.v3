@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
   <null name="startup_services"/>
@@ -18,5 +18,5 @@
   <null name="description"/>
   <value name="created_date">18-07-2024 19:54:26 IST</value>
   <null name="extendedProperties"/>
-  <value name="target_server_version">11.0.0.0</value>
+  <null name="target_server_version"/>
 </Values>
